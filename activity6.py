@@ -1,0 +1,11 @@
+n1=eval(input("Enter the first number: "))
+n2=eval(input("Enter the second number: "))
+s = n1 + n2
+d = n1 - n2
+p = n1 * n2
+q = n1 / n2
+
+print("The sum of",n1,"and",n2,"is",s)
+print("The difference of",n1,"and",n2,"is",d)
+print("The product of",n1,"and",n2,"is",p)
+print("The qoutient of",n1,"and",n2,"is",q)
