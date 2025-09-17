@@ -1,0 +1,5 @@
+print("COUNTDOWN TIMER SIMULATOR")
+start = eval(input("Enter the starting number for countdown: "))
+for u in range(start,0,-1):
+    print(u)
+print("Liftoff!!")
